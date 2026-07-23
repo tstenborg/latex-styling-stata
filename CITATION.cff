@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Styling Stata graphics with LaTeX"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/latex-styling-stata"
+abstract: >-
+  "This repository holds digital assets associated with the article 'Styling \
+  Stata graphics with LaTeX'. That article demonstrates using LaTeX to style a \
+  plot produced with the Stata statistical software package. Generating a \
+  Markov chain Monte Carlo (MCMC) traceplot for a water quality dataset, then \
+  adding LaTeX glyphs, was used as an illustrative example."
+keywords:
+  - latex
+  - mcmc
+  - stata
+preferred-citation:
+  authors:
+    - given-names: Travis
+      family-names: Stenborg
+  doi: "10.47397/tb/45-3/tb141stenborg-stata"
+  end: 375 # Last page number.
+  issue: 3
+  journal: TUGboat
+  start: 374 # First page number.
+  title: "Styling Stata graphics with LaTeX"
+  type: article
+  volume: 45
+  year: 2024
